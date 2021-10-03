@@ -607,9 +607,11 @@ input{
         display: none;
     }
  .intro img{
-    width: 100%;
+    width: 72.5%;
     height: 98%;
     margin-left: 0px;
+    display:flex;
+    justify-content:center;
     margin-top: 1rem;
  }
  .herobox{
