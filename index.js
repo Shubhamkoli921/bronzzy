@@ -97,5 +97,5 @@ function feedslide(){
     
     slider[feedindex-1].style.display="block";
     
-    setTimeout(feedslide,2000);
+    setTimeout(feedslide,4000);
 }
