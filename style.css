@@ -82,7 +82,7 @@ li a:hover{
     /* background-color: rgb(99, 65, 65) */
 }
 .intro{
-    width: 100%;
+    width: 138%;
     display: flex;
     position: relative;
     top: 10%;
@@ -93,7 +93,8 @@ li a:hover{
     justify-content: flex-end;
     border: 15px solid white;
     margin-left: 5rem;
-    height: 520px;
+    height: 490px;
+    width:85%;
 
 }
 .herobox{
