@@ -649,7 +649,8 @@ input{
         width: 100%;
     }
     .hero img{
-        width: 50%;
+        width: 52%;
+        margin-top:2px;
         height: 100%;
     }
     .heroabout h1{
