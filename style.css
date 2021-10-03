@@ -682,6 +682,9 @@ input{
         left: 1rem;
         top: 11.3rem;
     }
+    #tbtn{
+        right:50px;
+    }
     .innerfeed{
         max-width: 380px;
         margin: auto;
