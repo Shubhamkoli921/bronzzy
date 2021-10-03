@@ -616,9 +616,10 @@ input{
  }
  .herobox{
      right: 0;
+     border: 10px solid #b4c3c5;
      top: 33%;
      width: 100%;
-     height: 30%;
+     height: 99%;
      position: relative;
  }   
  .int1{
