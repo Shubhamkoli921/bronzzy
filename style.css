@@ -683,7 +683,7 @@ input{
         top: 11.3rem;
     }
     .innerfeed{
-        max-width: 480px;
+        max-width: 380px;
         margin: auto;
         transform: translate(0px,0px);
     }
